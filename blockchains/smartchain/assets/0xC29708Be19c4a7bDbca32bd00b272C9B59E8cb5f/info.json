@@ -1,0 +1,11 @@
+{
+  "name": "ZAYUMA",
+  "symbol": "ZAY",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "ZAYUMA es una criptomoneda memética con alma filosófica y propósito económico.",
+  "website": "https://github.com/wilprofe",
+  "explorer": "https://bscscan.com/token/0xC29708Be19c4a7bDbca32bd00b272C9B59E8cb5f",
+  "status": "active",
+  "id": "0xC29708Be19c4a7bDbca32bd00b272C9B59E8cb5f"
+}
